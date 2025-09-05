@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <!-- Typing Animation Header -->
 <h1 align="center">
   Hi there 👋, I'm Mohsin Muzamil
