@@ -15,7 +15,7 @@
 - 💻 Passionate Web Developer  
 - 🎯 Currently learning **Advanced JavaScript & React**  
 - 🌍 Open to collaborations on **Web Development Projects**  
-- 📫 Reach me: **mohsinmuzamil@example.com**  
+- 📫 Reach me: **mohsinmuzzamill@gmail.com**  
 
 ---
 
