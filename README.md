@@ -41,7 +41,8 @@
 <p align="center">
   <img src="https://github.com/MohsinMuzamil/MohsinMuzamil/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
+![GitHub Snake Light](https://github.com/MohsinMuzamil/MohsinMuzamil/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/MohsinMuzamil/MohsinMuzamil/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ---
 
 ### 🔗 Connect with Me  
