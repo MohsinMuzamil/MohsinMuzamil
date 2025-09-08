@@ -41,18 +41,15 @@
 <p align="center">
   <img src="https://github.com/MohsinMuzamil/MohsinMuzamil/blob/output/github-contribution-grid-snake.svg" />
 </p>
-![GitHub Snake Light](https://github.com/MohsinMuzamil/MohsinMuzamil/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/MohsinMuzamil/MohsinMuzamil/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ---
 
 ### 🔗 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/mohsinmuzamil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/@mohsin_muz84069" target="_blank">
+  <a href="https://twitter.com/mohsin_muz84069" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
-
