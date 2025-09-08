@@ -37,9 +37,9 @@
 
 ---
 
-### 🐍 Contribution Snake  
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/MohsinMuzamil/MohsinMuzamil/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MohsinMuzamil/MohsinMuzamil/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
