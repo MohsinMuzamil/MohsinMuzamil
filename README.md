@@ -13,7 +13,7 @@
 
 ### 🌟 About Me  
 - 💻 Passionate Web Developer  
-- 🎯 Currently learning **Advanced JavaScript & React**  
+- 🎯 Currently learning **Advanced JavaScript & React & Kotlin**  
 - 🌍 Open to collaborations on **Web Development Projects**  
 - 📫 Reach me: **mohsinmuzzamill@gmail.com**  
 
